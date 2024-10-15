@@ -1,3 +1,6 @@
+## Demo
+
+![LinkedIn Automation Demo](https://github.com/bilelfeki/LinkedIn-auto-connect/blob/master/demo/linkedi-auto.gif)
 # LinkedIn Connection Automation Script
 
 This script automates sending connection requests on LinkedIn. It simulates user interactions by clicking the "Connect" button on people's profiles and handles LinkedIn's pop-ups during the process.
